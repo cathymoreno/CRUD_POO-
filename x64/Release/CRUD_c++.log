@@ -1,0 +1,9 @@
+﻿  CRUD_c++.cpp
+C:\Users\myra\OneDrive\Documentos\CRUD_c++\CRUD_c++\CRUD_c++.cpp(41,35): error C3927: "->": no se admite el tipo de valor devuelto final después de un declarador que no es de función
+C:\Users\myra\OneDrive\Documentos\CRUD_c++\CRUD_c++\CRUD_c++.cpp(41,35): error C3484: error de sintaxis: se esperaba '->' antes del tipo de valor devuelto
+C:\Users\myra\OneDrive\Documentos\CRUD_c++\CRUD_c++\CRUD_c++.cpp(42,2): error C3613: falta el tipo de devolución después de '->' (se presupone 'int')
+C:\Users\myra\OneDrive\Documentos\CRUD_c++\CRUD_c++\CRUD_c++.cpp(42,2): error C2143: error de sintaxis: falta ';' delante de 'do'
+C:\Users\myra\OneDrive\Documentos\CRUD_c++\CRUD_c++\CRUD_c++.cpp(62,11): error C2064: el término no se evalúa como una función con 0 argumentos
+C:\Users\myra\OneDrive\Documentos\CRUD_c++\CRUD_c++\CRUD_c++.cpp(64,11): error C2064: el término no se evalúa como una función con 0 argumentos
+C:\Users\myra\OneDrive\Documentos\CRUD_c++\CRUD_c++\CRUD_c++.cpp(66,11): error C2064: el término no se evalúa como una función con 0 argumentos
+C:\Users\myra\OneDrive\Documentos\CRUD_c++\CRUD_c++\CRUD_c++.cpp(68,11): error C2064: el término no se evalúa como una función con 0 argumentos
